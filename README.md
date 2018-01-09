@@ -1,6 +1,6 @@
-# redes-code
+### redes-code
 
-# Based on the course "Redes Ecológicas" 
+## Based on "Redes Ecológicas" 
 ## https://marcomello.org/teaching/redes/
 
 ## See also a neat tutorial:
