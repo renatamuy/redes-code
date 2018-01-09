@@ -1,6 +1,8 @@
 # redes-code
 
-# Based on the course https://marcomello.org/teaching/redes/
+# Based on the course "Redes Ecológicas" 
+## https://marcomello.org/teaching/redes/
 
-# http://kateto.net/network-visualization
+## See also a neat tutorial:
+## http://kateto.net/network-visualization
 
